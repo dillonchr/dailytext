@@ -1,0 +1,14 @@
+{
+  "name": "@dillonchr/dailytext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dailytext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@dillonchr",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "node-html-parser": "^1.1.6"
+  }
+}
